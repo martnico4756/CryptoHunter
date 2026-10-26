@@ -1,1 +1,1 @@
-# CryptoHunter
+# CryptoHunter.uy
